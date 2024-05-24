@@ -1,1 +1,4 @@
-# TP_Snowflake_Streamlit
+# TP Snowflake Streamlit
+
+Etudiants : Laura VERCHERE & Liam HUISSOUD 
+Classe : 2D 
